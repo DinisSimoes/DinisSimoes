@@ -1,4 +1,4 @@
-[EN Version](readme.EN.md)
+[EN Version](README.EN.md)
 
 ## Olá 👋
 
