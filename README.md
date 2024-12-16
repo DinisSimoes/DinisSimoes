@@ -1,6 +1,9 @@
 [EN Version](README.EN.md)
 
-## Olá 👋
+## Olá 👋 Bem-vindo ao meu perfil no GitHub!
+
+🚧 **Em construção!**  
+Ainda estou trabalhando/aprendendo para melhorar minha apresentação aqui no github. Em breve ficará atualizado!
 
 <!--
 **DinisSimoes/DinisSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
