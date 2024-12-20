@@ -9,7 +9,7 @@ Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado 
 ### 🌟 Sobre Mim
 - 🌍 Localização: **MG, Brasil**
 - 💻 Trabalho com **desenvolvimento de software** para web, aplicativos e soluções personalizadas.
-- ♟️ Sempre que posso gosto de jogar xadrez, o que me ajuda a melhorar o meu raciocínio e concentração/foco.
+- ♟️ Sempre que posso, gosto de jogar xadrez, o que me ajuda a melhorar o raciocínio e a concentração. Confira minhas partidas no [Chess.com](https://www.chess.com/member/dinissimoes).
 - 📚 Sou apaixonado por leitura, especialmente por clássicos de horror, como os de Edgar Allan Poe, H.P. Lovecraft, e obras como *O retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
 
 ---
