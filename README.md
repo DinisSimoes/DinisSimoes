@@ -13,6 +13,13 @@ Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado 
 - 📚 Sou apaixonado por leitura, especialmente por clássicos de horror, como os de Edgar Allan Poe, H.P. Lovecraft, e obras como *O retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
 
 ---
+<p align="center">
+  <a href="https://linkedin.com/in/dinis-f-simoes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinis-f-simoes" height="30" width="40" /></a>
+  <!--<a href="https://instagram.com/dinissimoes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinissiomes" height="30" width="40" /></a>-->
+</p>
+
+<!--
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -94,14 +101,17 @@ As que eu estou aprendendo
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   
-
+-->
 ---
 
-### 📊 Estatísticas do GitHub
-![](https://github-readme-streak-stats.herokuapp.com/?user=DinisSimoes&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinisSimoes&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinisSimoes&layout=compact&theme=radical)  
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisSimoes&layout=compact&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=DinisSimoes&show_icons=true&layout=compact&theme=gotham" />
+  </a>
+</p>
 
 ---
 
