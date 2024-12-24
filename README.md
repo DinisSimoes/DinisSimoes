@@ -2,7 +2,7 @@
 
 ## Olá 👋 Bem-vindo ao meu perfil no GitHub!
 
-Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado por criar soluções inovadoras e colaborar em projetos desafiadores. Tenho expertise em **C#**, **.NET**, **Angular**, **Node.js** e em arquiteturas de sistemas modernos, como **microserviços** e **mensageria com RabbitMQ**.
+Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado por criar soluções inovadoras que impulsionam negócios e transformam ideias em realidade. Especialista em **C#**, **.NET** e **Angular**, possuo ampla experiência no desenvolvimento de sistemas modernos utilizando **microserviços** e mensageria com **RabbitMQ** e **Kafka** usando os principios **Clean Code**, **SOLID**, **KISS**, **DRY**. Adoro enfrentar desafios técnicos, colaborar com equipes multidisciplinares e aplicar boas práticas para entregar soluções escaláveis e de alta performance.
 
 ---
 
