@@ -2,7 +2,7 @@
 
 ## Hello 👋 Welcome to my GitHub profile!
 
-I am a software developer with over 6 years of experience, passionate about creating innovative solutions that drive business growth and turn ideas into reality. Specializing in **C#**, **.NET**, and **Angular**, I have extensive experience in developing modern systems using **microservices** and messaging with **RabbitMQ** and **Kafka**, while adhering to the principles of **Clean Code**, **SOLID**, **KISS**, and **DRY**. I enjoy tackling technical challenges, collaborating with multidisciplinary teams, and applying best practices to deliver scalable and high-performance solutions.
+I am a software developer with over 7 years of experience, passionate about creating innovative solutions that drive business growth and turn ideas into reality. Specializing in **C#**, **.NET**, and **Angular**, I have extensive experience in developing modern systems using **microservices** and messaging with **RabbitMQ** and **Kafka**, while adhering to the principles of **Clean Code**, **SOLID**, **KISS**, and **DRY**. I enjoy tackling technical challenges, collaborating with multidisciplinary teams, and applying best practices to deliver scalable and high-performance solutions.
 
 ---
 
@@ -13,9 +13,18 @@ I am a software developer with over 6 years of experience, passionate about crea
 - 📚  I am passionate about reading, especially horror classics, such as works by Edgar Allan Poe, H.P. Lovecraft, and novels like *The Picture of Dorian Gray*, *Dracula*, and *Frankenstein*.
 
 ---
-<p align="center">
-  <a href="https://linkedin.com/in/dinis-f-simoes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinis-f-simoes" height="30" width="40" /></a>
-</p>
+
+### 🔥 What I'm Learning
+I’m currently exploring new technologies and deepening my knowledge in:
+- **Go**
+- **Node.js**
+- **Redis**
+
+---
+
+I'm always open to exchanging experiences and learning with the community!
+
+If you’d like to share ideas, collaborate on projects, or just have a chat, feel free to reach out. Let’s build something amazing together! 🚀
 
 ---
 
@@ -29,4 +38,5 @@ I am a software developer with over 6 years of experience, passionate about crea
 </p>
 
 ---
+<p align="center">Made with ❤️ and lots of code! 💻</p>
 
