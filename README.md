@@ -2,7 +2,7 @@
 
 ## Olá 👋 Bem-vindo ao meu perfil no GitHub!
 
-Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado por criar soluções inovadoras que impulsionam negócios e transformam ideias em realidade. Especialista em **C#**, **.NET** e **Angular**, possuo ampla experiência no desenvolvimento de sistemas modernos utilizando **microserviços** e mensageria com **RabbitMQ** e **Kafka** usando os principios **Clean Code**, **SOLID**, **KISS**, **DRY**. Adoro enfrentar desafios técnicos, colaborar com equipes multidisciplinares e aplicar boas práticas para entregar soluções escaláveis e de alta performance.
+Sou um desenvolvedor de software com mais de 7 anos de experiência, apaixonado por criar soluções inovadoras que impulsionam negócios e transformam ideias em realidade. Especialista em **C#**, **.NET** e **Angular**, possuo ampla experiência no desenvolvimento de sistemas modernos utilizando **microserviços** e mensageria com **RabbitMQ** e **Kafka** usando os principios **Clean Code**, **SOLID**, **KISS**, **DRY**. Adoro enfrentar desafios técnicos, colaborar com equipes multidisciplinares e aplicar boas práticas para entregar soluções escaláveis e de alta performance.
 
 ---
 
@@ -13,10 +13,30 @@ Sou um desenvolvedor de software com mais de 6 anos de experiência, apaixonado 
 - 📚 Sou apaixonado por leitura, especialmente por clássicos de horror, como os de Edgar Allan Poe, H.P. Lovecraft, e obras como *O retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
 
 ---
-<p align="center">
-  <a href="https://linkedin.com/in/dinis-f-simoes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinis-f-simoes" height="30" width="40" /></a>
-  <!--<a href="https://instagram.com/dinissimoes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinissiomes" height="30" width="40" /></a>-->
-</p>
+
+### 🔥 O que estou aprendendo
+Atualmente, estou explorando novas tecnologias e aprofundando meus conhecimentos em:
+- **Go**
+- **Node.js**
+- **Redis**
+
+
+
+---
+
+Estou sempre aberto a trocar experiências e aprender com a comunidade!
+
+Se quiser trocar ideias, colaborar em projetos ou simplesmente bater um papo, fique à vontade para entrar em contato. Vamos construir algo incrível juntos! 🚀
+
+---
+
+🔗 **Conecte-se comigo:**
+- [LinkedIn](https://www.linkedin.com/in/dinis-f-simoes)
+<!--
+- [Portfólio](https://seu-portfolio.com)
+
+ 📬 **E-mail:** di.f.simoes@gmail.com
+-->
 
 <!--
 ---
@@ -114,6 +134,8 @@ As que eu estou aprendendo
 </p>
 
 ---
+
+<p align="center">Feito com ❤️ e muito código! 💻</p>
 
 <!--
 **DinisSimoes/DinisSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
