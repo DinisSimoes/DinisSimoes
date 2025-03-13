@@ -32,10 +32,11 @@ Se quiser trocar ideias, colaborar em projetos ou simplesmente bater um papo, fi
 
 🔗 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/dinis-f-simoes)
+- 📬 **E-mail:** contacto@coderythm.com.br
 <!--
 - [Portfólio](https://seu-portfolio.com)
 
- 📬 **E-mail:** di.f.simoes@gmail.com
+
 -->
 
 <!--
