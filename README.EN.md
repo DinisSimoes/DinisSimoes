@@ -28,6 +28,12 @@ If you’d like to share ideas, collaborate on projects, or just have a chat, fe
 
 ---
 
+🔗 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/dinis-f-simoes)
+- 📬 **E-mail:** contacto@coderythm.com.br
+
+---
+
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisSimoes&layout=compact&theme=gotham">
