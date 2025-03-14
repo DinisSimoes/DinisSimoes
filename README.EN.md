@@ -30,7 +30,7 @@ If you’d like to share ideas, collaborate on projects, or just have a chat, fe
 
 🔗 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/dinis-f-simoes)
-- 📬 **E-mail:** contacto@coderythm.com.br
+- 📬 **E-mail:** contact@coderythm.com.br
 
 ---
 
