@@ -14,14 +14,6 @@ I am a software developer with over 7 years of experience, passionate about crea
 
 ---
 
-### 🔥 What I'm Learning
-I’m currently exploring new technologies and deepening my knowledge in:
-- **Go**
-- **Node.js**
-- **Redis**
-
----
-
 I'm always open to exchanging experiences and learning with the community!
 
 If you’d like to share ideas, collaborate on projects, or just have a chat, feel free to reach out. Let’s build something amazing together! 🚀
