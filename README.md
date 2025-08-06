@@ -14,16 +14,6 @@ Sou um desenvolvedor de software com mais de 7 anos de experiência, apaixonado 
 
 ---
 
-### 🔥 O que estou aprendendo
-Atualmente, estou explorando novas tecnologias e aprofundando meus conhecimentos em:
-- **Go**
-- **Node.js**
-- **Redis**
-
-
-
----
-
 Estou sempre aberto a trocar experiências e aprender com a comunidade!
 
 Se quiser trocar ideias, colaborar em projetos ou simplesmente bater um papo, fique à vontade para entrar em contato. Vamos construir algo incrível juntos! 🚀
