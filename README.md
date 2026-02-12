@@ -1,7 +1,7 @@
 [EN Version](README.EN.md)
 
 # Olá, eu sou o Dinis 👋  
-### Software Engineer | .NET | Distributed Systems | Cloud
+### Software Engineer — Distributed Systems | Cloud | .NET
 
 Sou um **Software Engineer** com mais de **8 anos de experiência** projetando e construindo **sistemas escaláveis, resilientes e orientados a domínio**.
 
@@ -14,14 +14,40 @@ Ao longo da minha carreira, aplico princípios como **Clean Architecture**, **SO
 Sou motivado por **desafios técnicos complexos**, colaborando com times multidisciplinares e transformando requisitos de negócio em software **confiável**, **escalável** e de **alta performance**.
 
 
+
+## ⚙️ Core Skills
+
+- .NET / C#
+- Microservices Architecture
+- Distributed Systems
+- Cloud-Native Applications
+- Docker & Containers
+- Messaging (RabbitMQ, Kafka)
+- Clean Architecture & DDD
+- Automated Testing
+- System Design
+
+
+
+## ⭐ Projetos Selecionados
+
+🔹 **[Zurich Insurance Challenge](https://github.com/DinisSimoes/Zurich.Challenge)**  
+API de seguros orientada ao domínio, construída com Clean Architecture e foco na proteção das regras de negócio e alta testabilidade.
+
+🔹 **[PB Challenge](https://github.com/DinisSimoes/PB)**  
+Arquitetura de microserviços com Outbox Pattern, Dead Letter Queues, tracing distribuído (OpenTelemetry) e RabbitMQ.
+
+
+
 ## 🚀 Sobre mim
 
-- 🌍 **Localização:** Minas Gerais, Brasil  
+- 🌍 **Localização:** Brazil (Aberto para oportunidades remotas)  
 - 💼 Atuo no desenvolvimento de **sistemas web, aplicações e soluções sob medida**, com foco em qualidade, arquitetura e boas práticas.
 - 🧠 Tenho grande interesse por engenharia de software, design de sistemas e construção de plataformas resilientes.
 - ♟️ Pratico xadrez regularmente — um exercício constante de estratégia, análise e tomada de decisão.
 - 🏋️‍♂️ Mantenho uma rotina de musculação, reforçando disciplina, consistência e mentalidade de evolução contínua.
 - 📚 Sou apaixonado por literatura, especialmente clássicos do horror como **Edgar Allan Poe**, **H.P. Lovecraft**, *O Retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
+
 
 
 ## 🤝 Vamos nos conectar
