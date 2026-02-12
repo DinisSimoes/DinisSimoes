@@ -1,38 +1,45 @@
 [Versão PT](README.md)
 
-## Hello 👋 Welcome to my GitHub profile!
+# Hi, I'm Dinis 👋  
+### Software Engineer | .NET | Distributed Systems | Cloud
 
-I am a software developer with over 7 years of experience, passionate about creating innovative solutions that drive business growth and turn ideas into reality. Specializing in **C#**, **.NET**, and **Angular**, I have extensive experience in developing modern systems using **microservices** and messaging with **RabbitMQ** and **Kafka**, while adhering to the principles of **Clean Code**, **SOLID**, **KISS**, and **DRY**. I enjoy tackling technical challenges, collaborating with multidisciplinary teams, and applying best practices to deliver scalable and high-performance solutions.
+I am a **Software Engineer** with over **8 years of experience** designing and building **scalable, resilient, and domain-driven systems**.
+
+I have strong expertise within the **.NET ecosystem**, with solid experience in **C#** and modern architectures based on **microservices** and **asynchronous communication** using **RabbitMQ** and **Kafka**.
+
+I build **cloud-ready applications** leveraging **Docker**, **automated testing**, and engineering practices that ensure **reliability**, **observability**, and **sustainable system evolution**.
+
+Throughout my career, I have applied principles such as **Clean Architecture**, **SOLID**, **KISS**, and **DRY** to develop robust solutions ready for **production environments**.
+
+I am driven by **complex technical challenges**, collaborating with cross-functional teams and transforming business requirements into **reliable**, **scalable**, and **high-performance** software.
+
+
+## 🚀 About Me
+
+- 🌍 **Location:** Minas Gerais, Brazil  
+- 💼 I develop **web systems, applications, and tailored software solutions**, focusing on quality, architecture, and best practices.
+- 🧠 Highly interested in software engineering, system design, and building resilient platforms.
+- ♟️ I regularly play chess — a constant exercise in strategy, analysis, and decision-making.
+- 🏋️‍♂️ I maintain a strength training routine, reinforcing discipline, consistency, and a continuous improvement mindset.
+- 📚 Passionate about literature, especially horror classics such as **Edgar Allan Poe**, **H.P. Lovecraft**, *The Picture of Dorian Gray*, *Dracula*, and *Frankenstein*.
+
+
+## 🤝 Let's Connect
+
+I’m always open to exchanging ideas, discussing technology, and collaborating on challenging projects.
+
+If you'd like to talk about software engineering, architecture, or opportunities, I would be glad to connect.
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/dinis-f-simoes
+
+📬 **Email:**  
+dinis.simoes@coderythm.com.br
 
 ---
 
-### 🌟 About Me
-- 🌍 Location: **MG, Brasil**
-- 💻 I work with **software development** for web, applications, and custom solutions.
-- ♟️ Whenever I can, I enjoy playing chess, which helps me improve my reasoning and concentration. Check out my games on [Chess.com](https://www.chess.com/member/dinissimoes).
-- 📚  I am passionate about reading, especially horror classics, such as works by Edgar Allan Poe, H.P. Lovecraft, and novels like *The Picture of Dorian Gray*, *Dracula*, and *Frankenstein*.
-
----
-
-I'm always open to exchanging experiences and learning with the community!
-
-If you’d like to share ideas, collaborate on projects, or just have a chat, feel free to reach out. Let’s build something amazing together! 🚀
-
----
-
-🔗 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/dinis-f-simoes)
-- 📬 **E-mail:** contact@coderythm.com.br
-
----
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisSimoes&layout=compact&theme=gotham">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=DinisSimoes&show_icons=true&layout=compact&theme=gotham" />
-  </a>
+<p align="center">
+Building software with quality, purpose, and long-term vision. ❤️
 </p>
 
 ---
