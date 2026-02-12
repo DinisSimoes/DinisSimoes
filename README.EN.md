@@ -1,7 +1,7 @@
 [Versão PT](README.md)
 
 # Hi, I'm Dinis 👋  
-### Software Engineer | .NET | Distributed Systems | Cloud
+Software Engineer — Distributed Systems | Cloud | .NET
 
 I am a **Software Engineer** with over **8 years of experience** designing and building **scalable, resilient, and domain-driven systems**.
 
@@ -14,6 +14,26 @@ Throughout my career, I have applied principles such as **Clean Architecture**, 
 I am driven by **complex technical challenges**, collaborating with cross-functional teams and transforming business requirements into **reliable**, **scalable**, and **high-performance** software.
 
 
+## ⚙️ Core Skills 
+
+- .NET / C#
+- Microservices Architecture
+- Distributed Systems
+- Cloud-Native Applications
+- Docker & Containers
+- Messaging (RabbitMQ, Kafka)
+- Clean Architecture & DDD
+- Automated Testing
+- System Design
+
+## ⭐ Featured Projects
+
+🔹 **[Zurich Insurance Challenge](https://github.com/DinisSimoes/Zurich.Challenge)**
+Domain-driven insurance API built with Clean Architecture, focusing on protecting business rules and ensuring high testability.
+
+🔹 **[PB Challenge](https://github.com/DinisSimoes/PB)**
+Microservices architecture featuring the Outbox Pattern, Dead Letter Queues, distributed tracing (OpenTelemetry), and RabbitMQ.
+
 ## 🚀 About Me
 
 - 🌍 **Location:** Minas Gerais, Brazil  
@@ -21,7 +41,7 @@ I am driven by **complex technical challenges**, collaborating with cross-functi
 - 🧠 Highly interested in software engineering, system design, and building resilient platforms.
 - ♟️ I regularly play chess — a constant exercise in strategy, analysis, and decision-making.
 - 🏋️‍♂️ I maintain a strength training routine, reinforcing discipline, consistency, and a continuous improvement mindset.
-- 📚 Passionate about literature, especially horror classics such as **Edgar Allan Poe**, **H.P. Lovecraft**, *The Picture of Dorian Gray*, *Dracula*, and *Frankenstein*.
+- 📚 Passionate about literature, especially horror classics such as *Edgar Allan Poe*, *H.P. Lovecraft*, *The Picture of Dorian Gray*, *Dracula*, and *Frankenstein*.
 
 
 ## 🤝 Let's Connect
