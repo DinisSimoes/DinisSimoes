@@ -32,9 +32,11 @@ Sou motivado por **desafios técnicos complexos**, colaborando com times multidi
 ## ⭐ Projetos Selecionados
 
 🔹 **[Zurich Insurance Challenge](https://github.com/DinisSimoes/Zurich.Challenge)**  
+
 API de seguros orientada ao domínio, construída com Clean Architecture e foco na proteção das regras de negócio e alta testabilidade.
 
-🔹 **[PB Challenge](https://github.com/DinisSimoes/PB)**  
+🔹 **[PB Challenge](https://github.com/DinisSimoes/PB)** 
+
 Arquitetura de microserviços com Outbox Pattern, Dead Letter Queues, tracing distribuído (OpenTelemetry) e RabbitMQ.
 
 
