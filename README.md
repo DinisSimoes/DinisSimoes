@@ -46,7 +46,7 @@ Arquitetura de microserviços com Outbox Pattern, Dead Letter Queues, tracing di
 - 🧠 Tenho grande interesse por engenharia de software, design de sistemas e construção de plataformas resilientes.
 - ♟️ Pratico xadrez regularmente — um exercício constante de estratégia, análise e tomada de decisão.
 - 🏋️‍♂️ Mantenho uma rotina de musculação, reforçando disciplina, consistência e mentalidade de evolução contínua.
-- 📚 Sou apaixonado por literatura, especialmente clássicos do horror como **Edgar Allan Poe**, **H.P. Lovecraft**, *O Retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
+- 📚 Sou apaixonado por literatura, especialmente clássicos do horror como *Edgar Allan Poe*, *H.P. Lovecraft*, *O Retrato de Dorian Gray*, *Drácula* e *Frankenstein*.
 
 
 
