@@ -29,9 +29,11 @@ I am driven by **complex technical challenges**, collaborating with cross-functi
 ## ⭐ Featured Projects
 
 🔹 **[Zurich Insurance Challenge](https://github.com/DinisSimoes/Zurich.Challenge)**
+
 Domain-driven insurance API built with Clean Architecture, focusing on protecting business rules and ensuring high testability.
 
 🔹 **[PB Challenge](https://github.com/DinisSimoes/PB)**
+
 Microservices architecture featuring the Outbox Pattern, Dead Letter Queues, distributed tracing (OpenTelemetry), and RabbitMQ.
 
 ## 🚀 About Me
