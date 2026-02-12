@@ -1,7 +1,7 @@
 [Versão PT](README.md)
 
 # Hi, I'm Dinis 👋  
-Software Engineer — Distributed Systems | Cloud | .NET
+Senior Software Engineer — Distributed Systems | Cloud | .NET
 
 I am a **Software Engineer** with over **8 years of experience** designing and building **scalable, resilient, and domain-driven systems**.
 
