@@ -1,4 +1,4 @@
-🇺🇸 English | 🇧🇷 [Português](README.pt.md)
+🇺🇸 English | 🇧🇷 [Português](README.PT.md)
 
 # Hi, I'm Dinis 👋  
 Senior Software Engineer — Distributed Systems | Cloud | .NET
