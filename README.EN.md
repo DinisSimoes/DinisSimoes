@@ -42,6 +42,3 @@ dinis.simoes@coderythm.com.br
 Building software with quality, purpose, and long-term vision. ❤️
 </p>
 
----
-<p align="center">Made with ❤️ and lots of code! 💻</p>
-
